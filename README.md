@@ -58,6 +58,7 @@ h3{
 background-color:yellow;
 color:red;
 font-family:algerian;
+text-align:center;
 }
 
 </style>
@@ -76,7 +77,7 @@ font-family:algerian;
   <a href="https://lnct.ac.in/lnct-and-science/">LNCTS</a>
   <a href="https://lnct.ac.in/lnct-excellence-college/">LNCTE</a>
   <a href="http://portal.lnct.ac.in/accsoft2/login.aspx">STUDENT LOGIN</a>
-  <a href="https://lnct.ac.in/contact" style="float:right">DEVELOPER INFO</a>
+  <a href="https://himanshu65sharma.github.io/developer-info/" style="float:right">DEVELOPER INFO</a>
 </div>
 <h2>
 WELCOME TO THE PORTAL OF LNCT GROUP FOR SEVERAL INFORMATION
