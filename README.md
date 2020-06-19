@@ -92,7 +92,7 @@ here you can check all the information about you and your college
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </p>
 <h3>
-developed and maintained by HIMANSHU SHARMA
+developed and maintained by HIMANSHU SHARMA.
 </h3>
 
 </body>
