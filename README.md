@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  padding: 10px;
+  background: #f1f1f1;
+}
+
+/* Header/Blog Title */
+.header {
+color:red;
+  padding: 30px;
+  text-align: center;
+  background: yellow;
+  font-family:algerian;
+}
+
+.header h1 {
+  font-size: 50px;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color:white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  border:1px solid white;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: red;
+  color: white;
+}
+h2{
+text align :center;
+font-family:cursive;
+color:red;
+}
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+h3{
+background-color:yellow;
+color:red;
+font-family:algerian;
+}
+
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>
+  <img src="https://lnct.ac.in/wp-content/uploads/2018/11/lnct-g-logo.png" width="200" height="100">LAKSHMI NARAIN COLLEGE OF TECHNOLOGY</h1>
+  
+</div>
+
+<div class="topnav">
+  <a href="https://lnct.ac.in/lnct-group/">ABOUT</a>
+  <a href="https://www.lnct.ac.in/lnct-college/">LNCT</a>
+  <a href="https://lnct.ac.in/lnct-and-science/">LNCTS</a>
+  <a href="https://lnct.ac.in/lnct-excellence-college/">LNCTE</a>
+  <a href="http://portal.lnct.ac.in/accsoft2/login.aspx">STUDENT LOGIN</a>
+  <a href="https://lnct.ac.in/contact" style="float:right">DEVELOPER INFO</a>
+</div>
+<h2>
+WELCOME TO THE PORTAL OF LNCT GROUP FOR SEVERAL INFORMATION
+</h2>
+<p>
+here you can check all the information about you and your college
+
+
+<br>
+<br>
+<br>
+<br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</p>
+<h3>
+developed and maintained by HIMANSHU SHARMA
+</h3>
+
+</body>
+</html>
