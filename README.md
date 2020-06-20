@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -9,20 +9,22 @@
 body {
   font-family: Arial;
   padding: 10px;
-  background: #f1f1f1;
+  background:#fff;
 }
 
 /* Header/Blog Title */
 .header {
+min-height: fit-content;
+    position: relative;
 color:red;
-  padding: 30px;
+  padding: 10px;
   text-align: center;
   background: yellow;
-  font-family:algerian;
+  FONT-FAMILY:ALGERIAN
 }
 
 .header h1 {
-  font-size: 50px;
+  font-size: 35px;
 }
 
 /* Style the top navigation bar */
@@ -67,7 +69,9 @@ text-align:center;
 
 <div class="header">
   <h1>
-  <img src="https://lnct.ac.in/wp-content/uploads/2018/11/lnct-g-logo.png" width="200" height="100">LAKSHMI NARAIN COLLEGE OF TECHNOLOGY</h1>
+  <img src="https://lnct.ac.in/wp-content/uploads/2018/11/lnct-g-logo.png" width="250" height="100">
+LAKSHMI NARAIN COLLEGE OF TECHNOLOGY
+</h1>
   
 </div>
 
@@ -93,8 +97,11 @@ here you can check all the information about you and your college
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </p>
 <h3>
-developed and maintained by HIMANSHU SHARMA.
+developed and maintained by HIMANSHU SHARMA
 </h3>
 
 </body>
 </html>
+
+
+
